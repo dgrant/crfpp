@@ -1,0 +1,12 @@
+Package: crfpp-dbgsym
+Source: crfpp
+Version: 0.58-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: David Grant <davidgrant@gmail.com>
+Installed-Size: 70
+Depends: crfpp (= 0.58-1)
+Section: debug
+Priority: optional
+Description: debug symbols for crfpp
+Build-Ids: 1df8fe45cfc65e37381ddf7e6c929b494204044f 3fec436c168f9a7ff9fc432871d8530cc0acef25 63df0caf60257d06e0e8525d18466ba550dbc2f5

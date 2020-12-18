@@ -1,0 +1,13 @@
+Source: crfpp
+Maintainer: David Grant <davidgrant@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 10)
+
+Package: crfpp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: CRF++ is a simple implementation of Conditional Random Fields (CRFs).
+ CRF++ is a simple, customizable, and open source implementation of Conditional Random Fields (CRFs) for segmenting/labeling sequential data.
+ It is designed for generic purpose and will be applied to a variety of NLP tasks, such as Named Entity Recognition, Information Extraction and Text Chunking.

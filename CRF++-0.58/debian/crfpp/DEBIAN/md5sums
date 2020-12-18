@@ -1,0 +1,8 @@
+522ea36789e48c869f5796162fab3e6f  usr/bin/crf_learn
+4f7c0c2908bb4cffda18221e911cd330  usr/bin/crf_test
+6f9f547884653eb6708ee366adcf9825  usr/include/crfpp.h
+c796b4d5fb77841cca1ed80e88539af3  usr/lib/x86_64-linux-gnu/libcrfpp.a
+4bc888743ec3dcddbec801faabcd1de5  usr/lib/x86_64-linux-gnu/libcrfpp.la
+58eb01e1feaa759238eb0ab9eb7b3a94  usr/lib/x86_64-linux-gnu/libcrfpp.so.0.0.0
+6b0c4f552da145789ae5cc27320435d3  usr/share/doc/crfpp/changelog.Debian.gz
+d41d8cd98f00b204e9800998ecf8427e  usr/share/doc/crfpp/copyright

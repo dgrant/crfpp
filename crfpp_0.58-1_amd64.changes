@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Tue, 08 Dec 2020 11:24:39 -0800
+Source: crfpp
+Binary: crfpp crfpp-dbgsym
+Architecture: source amd64
+Version: 0.58-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: David Grant <davidgrant@gmail.com>
+Changed-By: David Grant <davidgrant@gmail.com>
+Description:
+ crfpp      - CRF++ is a simple implementation of Conditional Random Fields (CR
+Changes:
+ crfpp (0.58-1) UNRELEASED; urgency=medium
+ .
+   * Initial release.
+Checksums-Sha1:
+ ceb06ba6cbfe19b4d994cbe8aaf6391c6271625c 743 crfpp_0.58-1.dsc
+ 979a686a6d73d14cdd0c96a310888fb6bffd2e91 790570 crfpp_0.58.orig.tar.gz
+ 55146c70f4d2d7403c96154e154d4e3725dcf3a2 944 crfpp_0.58-1.debian.tar.xz
+ 05f661334b747ee9a5a1f1b71c6c19c2ca2ff403 11640 crfpp-dbgsym_0.58-1_amd64.deb
+ 48ac4a9ed6b39dd6544acbf170a740a4748a1280 5412 crfpp_0.58-1_amd64.buildinfo
+ 53cc70f3e722c2ca0b3c8acf4b04bb5bc8715108 167320 crfpp_0.58-1_amd64.deb
+Checksums-Sha256:
+ bc2d31960be5dab57b5ae87d7ce09112f43c522c88dc9fff30e8d19332af8a2c 743 crfpp_0.58-1.dsc
+ 9d1c0a994f25a5025cede5e1d3a687ec98cd4949bfb2aae13f2a873a13259cb2 790570 crfpp_0.58.orig.tar.gz
+ 92c7e49137c87bc726b0b84749c873a797e6886ce4ab3306e98d6075936c50f4 944 crfpp_0.58-1.debian.tar.xz
+ 9a3ec721df06690c064e0efae22295f9191700bd0085be5d07a116767e5e2399 11640 crfpp-dbgsym_0.58-1_amd64.deb
+ f1a9043c1a73e6c7ccbbd7fed68642c2ab44cf2f536522efb87a61b7fc5e395f 5412 crfpp_0.58-1_amd64.buildinfo
+ 605113a8617a96a9c95049e60344f40016b43e85873cc5d77db9b61b3c9ce228 167320 crfpp_0.58-1_amd64.deb
+Files:
+ f907c6c7c2b47a9af541f5028835009b 743 misc optional crfpp_0.58-1.dsc
+ c8ffd456ab1a6815ba916c1083194a99 790570 misc optional crfpp_0.58.orig.tar.gz
+ 4b6da1e9b3c72d7da1b07adbcb1a4bb4 944 misc optional crfpp_0.58-1.debian.tar.xz
+ 5ce087e752b9ae8c66d4f775ff8984f1 11640 debug optional crfpp-dbgsym_0.58-1_amd64.deb
+ 4d4afd353803ad62da1b3ab6d97058eb 5412 misc optional crfpp_0.58-1_amd64.buildinfo
+ 141454fc213b06cb18e81d26ea3266b6 167320 misc optional crfpp_0.58-1_amd64.deb
